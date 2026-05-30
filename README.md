@@ -23,6 +23,9 @@ cd marky
 ```
 **2. Install Dependencies**
 ```bash
+# for mac users:
+pip3 install -r requirements.txt
+# for windows users:
 pip install -r requirements.txt
 ```
 
