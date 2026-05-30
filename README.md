@@ -18,7 +18,7 @@ Task data is persistently saved to a local JSON file `data.json` and tasks are d
 
 **1. Clone the repository**
 ```bash
-git clone [https://github.com/patra-rahul/marky.git](https://github.com/patra-rahul/marky.git)
+git clone https://github.com/patra-rahul/marky.git
 cd marky
 ```
 **2. Install Dependencies**
